@@ -14,7 +14,8 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 10: Generative Model 1
 - Week 11: Generative Model 2
 - Week 12: Generative Model 3
-- Week 13: Generative Model 3
+- Week 13: Generative Model 4
+   - Diffusion-based models (DDPM and DDIM)
 - Week 14-16
 
 ##### This syllabus is subject to further change or revision, as needed, to best realize the educational goals of the course.
