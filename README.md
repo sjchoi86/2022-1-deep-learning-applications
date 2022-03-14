@@ -17,4 +17,4 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 13: Generative Model 3
 - Week 14-16
 
-* This syllabus is subject to further change or revision, as needed, to best realize the educational goals of the course.
+##### This syllabus is subject to further change or revision, as needed, to best realize the educational goals of the course.
