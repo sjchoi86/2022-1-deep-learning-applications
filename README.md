@@ -5,7 +5,7 @@ In this lecture, we will be learning about two different topics in deep learning
 ### Syllabus
 - Week 1 (3/7): Historical Review
 - Week 2 (3/15): Self-supervised learning 1 (Jigsaw, BiGAN, RotNet, Auto-Encoding Transform, DeepCluster, Single Image SSL)
-- Week 3 (3/22): Self-supervised learning 2 (DrLIM, MoCo, SimCLR, SimCLRv2)
+- Week 3 (3/22): Self-supervised learning 2 (DrLIM, Contrastive Predictive Coding, SimCLR, MoCo, BYOL, SimCLRv2, Barlow Twins)
 - Week 4 (3/29): Self-supervised learning 3 (NLP Domain)
 - Week 5 (4/5): Self-supervised learning 4 (Robotics Domain)
 - Week 6:(4/12) Invited Talk 
