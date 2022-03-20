@@ -5,7 +5,7 @@ In this lecture, we will be learning about two different topics in deep learning
 ### Syllabus
 - Week 1 (3/7): Historical Review
 - Week 2 (3/15): Self-supervised learning 1 (`Jigsaw`, `BiGAN`, `RotNet`, `Auto-Encoding Transform`, `DeepCluster`, `Single Image SSL`)
-- Week 3 (3/22): Self-supervised learning 2 (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `Barlow Twins`)
+- Week 3 (3/22): Self-supervised learning 2 (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
 - Week 4 (3/29): Self-supervised learning 3 (NLP Domain)
 - Week 5 (4/5): Self-supervised learning 4 (Robotics Domain)
 - Week 6:(4/12) Invited Talk 
@@ -29,6 +29,7 @@ In this lecture, we will be learning about two different topics in deep learning
 - `MoCo`: "Momentum Contrast for Unsupervised Visual Representation Learning," 2020
 - `BYOL`: "Bootstrap Your Own Latent A New Approach to Self-Supervised Learning," 2020
 - `SimCLRv2`: "Big Self-Supervised Models are Strong Semi-Supervised Learners," 2020
+- `SwAV`: "Unsupervised Learning of Visual Features by Contrasting Cluster Assignments," 2021
 - `Barlow Twins`: "Barlow Twins: Self-Supervised Learning via Redundancy Reduction," 2021
 
 ##### This syllabus is subject to further change or revision, as needed, to best realize the educational goals of the course.
