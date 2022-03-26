@@ -8,7 +8,7 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 3 (3/22): Self-supervised learning 2 (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
 - Week 4 (3/29): Self-supervised learning 3 (NLP Domain)
 - Week 5 (4/5): Self-supervised learning 4 (Robotics Domain)
-- Week 6:(4/12) Invited Talk 
+- Week 6:(4/12) Invited Talk (Sangdoo Yun@Naver AI Lab)
 - Week 7-9: Interlim Presentations
 - Week 10 (5/10): Generative Model 1 (AR model, ML learning)
 - Week 11 (5/17): Generative Model 2 (VAE, WAE, GAN, Flow-based models)
