@@ -6,7 +6,7 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 1 (3/7): Historical Review
 - Week 2 (3/15): Good Old Fashioned SSL (`Jigsaw`, `BiGAN`, `RotNet`, `Auto-Encoding Transform`, `DeepCluster`, `Single Image SSL`)
 - Week 3 (3/22): Convnet-based SSL (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
-- Week 4 (3/29): Transformer-based SSL (`Transformer`, `ViT`, `DINO`, `EsViT`)
+- Week 4 (3/29): Transformer-based SSL (`Transformer`, `ViT`, `Swin Transformer`, `DINO`, `EsViT`)
 - Week 5 (4/5): Self-supervised learning 4 (Robotics Domain)
 - Week 6:(4/12): Invited Talk ([Sangdoo Yun](https://sangdooyun.github.io/)@Naver AI Lab)
 - Week 7 (4/19): Interlim Presentation 1
@@ -35,6 +35,7 @@ In this lecture, we will be learning about two different topics in deep learning
 - `Barlow Twins`: "Barlow Twins: Self-Supervised Learning via Redundancy Reduction," 2021
 - `Transformer`: "Attention is All You Need," 2017
 - `ViT`: "AN IMAGE IS WORTH 16 X 16 WORDS :TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE," 2021
+- `Swin Transformer`: "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows," 2021
 - `DINO`: "Emerging Properties in Self-Supervised Vision Transformers," 2021
 - `EsViT`: "Efficient Self-supervised Vision Transformers for Representation Learning," 2021
 
