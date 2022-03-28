@@ -1,12 +1,12 @@
 # 2022-1 Deep Learning and Applications
 
-In this lecture, we will be learning about two different topics in deep learning: self-supervised learning (SSL) and generative models. For SSL, 50 papers were curated in computer vision, natural language processing, and robotics. 
+In this lecture, we will be learning about two different topics in deep learning: self-supervised learning (SSL) and generative models. 
 
 ### Syllabus
 - Week 1 (3/7): Historical Review
-- Week 2 (3/15): Self-supervised learning 1 (`Jigsaw`, `BiGAN`, `RotNet`, `Auto-Encoding Transform`, `DeepCluster`, `Single Image SSL`)
-- Week 3 (3/22): Self-supervised learning 2 (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
-- Week 4 (3/29): Self-supervised learning 3 (NLP Domain)
+- Week 2 (3/15): Good Old Fashioned SSL (`Jigsaw`, `BiGAN`, `RotNet`, `Auto-Encoding Transform`, `DeepCluster`, `Single Image SSL`)
+- Week 3 (3/22): Convnet-based SSL (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
+- Week 4 (3/29): Transformer-based SSL (`Transformer`, `ViT`, `DINO`, `EsViT`)
 - Week 5 (4/5): Self-supervised learning 4 (Robotics Domain)
 - Week 6:(4/12): Invited Talk ([Sangdoo Yun](https://sangdooyun.github.io/)@Naver AI Lab)
 - Week 7 (4/19): Interlim Presentation 1
@@ -33,5 +33,9 @@ In this lecture, we will be learning about two different topics in deep learning
 - `SimCLRv2`: "Big Self-Supervised Models are Strong Semi-Supervised Learners," 2020
 - `SwAV`: "Unsupervised Learning of Visual Features by Contrasting Cluster Assignments," 2021
 - `Barlow Twins`: "Barlow Twins: Self-Supervised Learning via Redundancy Reduction," 2021
+- `Transformer`: "Attention is All You Need," 2017
+- `ViT`: "AN IMAGE IS WORTH 16 X 16 WORDS :TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE," 2021
+- `DINO`: "Emerging Properties in Self-Supervised Vision Transformers," 2021
+- `EsViT`: "Efficient Self-supervised Vision Transformers for Representation Learning," 2021
 
 ##### This syllabus is subject to further change or revision, as needed, to best realize the educational goals of the course.
