@@ -10,13 +10,15 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 5 (4/5): Language-domain SSL (`GPT`, `GPT-2`, `BERT`, `RoBERTa`, `ALBERT`, `GPT-3`)
 - Week 6:(4/12): Invited Talk ([Sangdoo Yun](https://sangdooyun.github.io/)@Naver AI Lab)
 - Week 7 (4/19): Interlim Presentation 1
-- Week 8 (4/26): Invited Talk ([Minsuk Chang](https://minsukchang.com/)@Naver AI Lab)
-- Week 9 (5/3): Interlim Presentation 2
+- Week 8 (4/26): Interlim Presentation 2
+- Week 9 (5/3): Invited Talk ([Minsuk Chang](https://minsukchang.com/)@Naver AI Lab)
 - Week 10 (5/10): Generative Model 1 (AR model, ML learning)
 - Week 11 (5/17): Generative Model 2 (VAE, WAE, GAN, Flow-based models)
 - Week 12 (5/24): Generative Model 3 (DDPM)
 - Week 13 (5/31): Generative Model 4 (More diffusion-based + score-based models)
-- Week 14-16: Final Presentations
+- Week 14: Final Presentations 1
+- Week 15: Final Presentations 2
+- Week 16: Final Presentations 3
 
 ### Paper Lists
 - `Jigsaw`: "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles," 2017
