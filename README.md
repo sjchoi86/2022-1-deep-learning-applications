@@ -16,8 +16,8 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 11 (5/24): Generative Model 3 (`DDPM`)
 - Week 12 (5/31): Generative Model 4 (More diffusion-based models)
 - Week 13 (6/7): Final Presentations 1
-- Week 14 (6/14): Final Presentations 2
-- Week 15 (6/21): Invited Talk ([Geonho Cha](https://www.linkedin.com/in/geonho-cha-37b033136/?originalSubdomain=kr)@Naver Clova)
+- Week 15 (6/14): Invited Talk ([Geonho Cha](https://www.linkedin.com/in/geonho-cha-37b033136/?originalSubdomain=kr)@Naver Clova)
+- Week 14 (6/21): Final Presentations 2
 
 ### Paper Lists
 - `Jigsaw`: "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles," 2017
