@@ -11,14 +11,13 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 6:(4/12): Invited Talk ([Sangdoo Yun](https://sangdooyun.github.io/)@Naver AI Lab)
 - Week 7 (4/19): Interlim Presentation 1
 - Week 8 (4/26): Interlim Presentation 2
-- Week 9 (5/10): Generative Model 1 (AR model, ML learning)
-- Week 10 (5/17): Generative Model 2 (VAE, WAE, GAN, Flow-based models)
-- Week 11 (5/24): Generative Model 3 (DDPM)
-- Week 12 (5/31): Generative Model 4 (More diffusion-based + score-based models)
-- Week 13 (6/7): Generative Model 5
-- Week 14: Final Presentations 1
-- Week 15: Final Presentations 2
-- Week 16: Final Presentations 3
+- Week 9 (5/10): Generative Model 1 (`NADE`,`PixelRNN`,`PixelCNN`)
+- Week 10 (5/17): Generative Model 2 (`VAE`, `WAE`, `GAN`, `PlanarFlow`)
+- Week 11 (5/24): Generative Model 3 (`DDPM`)
+- Week 12 (5/31): Generative Model 4 (More diffusion-based models)
+- Week 13 (6/7): Final Presentations 1
+- Week 14 (6/14): Final Presentations 2
+- Week 15 (6/21): Invited Talk ([Geonho Cha](https://www.linkedin.com/in/geonho-cha-37b033136/?originalSubdomain=kr)@Naver Clova)
 
 ### Paper Lists
 - `Jigsaw`: "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles," 2017
@@ -46,5 +45,13 @@ In this lecture, we will be learning about two different topics in deep learning
 - `RoBERTa`: "RoBERTa: A Robustly Optimized BERT Pretraining Approach," 2019
 - `ALBERT`: "ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS," 2020
 - `GPT-3`: "Language Models are Few-Shot Learners," 2020
+- `NADE`: "Neural Autoregressive Distribution Estimation." 2016
+- `PixelRNN`: "Pixel Recurrent Neural Networks," 2016
+- `PixelCNN`: "Conditional Image Generation with PixelCNN Decoders," 2016
+- `VAE`: "Auto-Encoding Variational Bayes," 2013
+- `WAE`: "Wasserstein Auto-Encoders," 2017
+- `GAN`: "Generative Adversarial Networks," 2014
+- `PlanarFlow`: "Variational Inference with Normalizing Flows," 2016
+- `DDPM`: "Denoising Diffusion Probabilistic Models," 2020
 
 ##### This syllabus is subject to further change or revision, as needed, to best realize the educational goals of the course.
