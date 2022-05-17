@@ -15,7 +15,7 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 10 (5/10): Generative Model 2 (`VAE`, `WAE`, `GAN`, `PlanarFlow`)
 - Week 11 (5/17): Generative Model 3 (`DDPM` part1)
 - Week 12 (5/24): Generative Model 4 (`DDPM` part2, `InfoGAN`, `VQ-VAE`, `VQ-VAE2`)
-- Week 13 (5/31): Generative Model 5 (`DDIM`,`IDDPM`,`ADM`,`DiffusionGAN`,`GLIDE`,`DALL-E2`)
+- Week 13 (5/31): Generative Model 5 (`DDIM`, `IDDPM`, `ADM`, `BART`, `DiffusionGAN`, `GLIDE`, `DALL-E2`)
 - Week 14 (6/7): Final Presentation 1
 - Week 15 (6/14): Invited Talk ([Geonho Cha](https://www.linkedin.com/in/geonho-cha-37b033136/?originalSubdomain=kr)@Naver Clova)
 - Week 16 (6/21): Final Presentation 2
@@ -60,6 +60,7 @@ In this lecture, we will be learning about two different topics in deep learning
 - `DDIM`: "DENOISING DIFFUSION IMPLICIT MODELS," 2020
 - `IDDPM`: "Improved Denoising Diffusion Probabilistic Models," 2021
 - `ADM`: "Diffusion Models Beat GANs on Image Synthesis," 2021
+- `BART`: "ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis," 2021
 - `DiffusionGAN`: "TACKLING THE GENERATIVE LEARNING TRILEMMA WITH DENOISING DIFFUSION GANS," 2021
 - `GLIDE`: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models," 2022
 - `DALL-E2`: "Hierarchical Text-Conditional Image Generation with CLIP Latents," 2022
