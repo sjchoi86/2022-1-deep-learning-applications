@@ -8,16 +8,17 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 3 (3/22): Convnet-based SSL (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
 - Week 4 (3/29): Transformer-based SSL (`Transformer`, `ViT`, `Swin Transformer`, `DINO`, `EsViT`)
 - Week 5 (4/5): Language-domain SSL (`GPT`, `GPT-2`, `BERT`, `RoBERTa`, `ALBERT`, `GPT-3`)
-- Week 6:(4/12): Invited Talk ([Sangdoo Yun](https://sangdooyun.github.io/)@Naver AI Lab)
+- Week 6 (4/12): Invited Talk ([Sangdoo Yun](https://sangdooyun.github.io/)@Naver AI Lab)
 - Week 7 (4/19): Interlim Presentation 1
 - Week 8 (4/26): Interlim Presentation 2
-- Week 9 (5/10): Generative Model 1 (`NADE`,`PixelRNN`,`PixelCNN`)
-- Week 10 (5/17): Generative Model 2 (`VAE`, `WAE`, `GAN`, `PlanarFlow`)
-- Week 11 (5/24): Generative Model 3 (`DDPM`)
-- Week 12 (5/31): Generative Model 4 (More diffusion-based models)
-- Week 13 (6/7): Final Presentations 1
-- Week 14 (6/14): Invited Talk ([Geonho Cha](https://www.linkedin.com/in/geonho-cha-37b033136/?originalSubdomain=kr)@Naver Clova)
-- Week 15 (6/21): Final Presentations 2
+- Week 9 (5/3: Generative Model 1 (`NADE`,`PixelRNN`,`PixelCNN`)
+- Week 10 (5/10): Generative Model 2 (`VAE`, `WAE`, `GAN`, `PlanarFlow`)
+- Week 11 (5/17): Generative Model 3 (`DDPM` part1)
+- Week 12 (5/24): Generative Model 4 (`DDPM` part2, `InfoGAN`, `VQ-VAE`, `VQ-VAE2`)
+- Week 13 (5/31): Generative Model 5 (`DDIM`,`IDDPM`,`ADM`,`DiffusionGAN`,`GLIDE`,`DALL-E2`)
+- Week 14 (6/7): Final Presentation 1
+- Week 15 (6/14): Invited Talk ([Geonho Cha](https://www.linkedin.com/in/geonho-cha-37b033136/?originalSubdomain=kr)@Naver Clova)
+- Week 16 (6/21): Final Presentation 2
 
 ### Paper Lists
 - `Jigsaw`: "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles," 2017
@@ -53,5 +54,14 @@ In this lecture, we will be learning about two different topics in deep learning
 - `GAN`: "Generative Adversarial Networks," 2014
 - `PlanarFlow`: "Variational Inference with Normalizing Flows," 2016
 - `DDPM`: "Denoising Diffusion Probabilistic Models," 2020
+- `InfoGAN`: "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets," 2016
+- `VQ-VAE`: "Neural Discrete Representation Learning," 2018
+- `VQ-VAE2`: "Generating Diverse High-Fidelity Images with VQ-VAE-2," 2019
+- `DDIM`: "DENOISING DIFFUSION IMPLICIT MODELS," 2020
+- `IDDPM`: "Improved Denoising Diffusion Probabilistic Models," 2021
+- `ADM`: "Diffusion Models Beat GANs on Image Synthesis," 2021
+- `DiffusionGAN`: "TACKLING THE GENERATIVE LEARNING TRILEMMA WITH DENOISING DIFFUSION GANS," 2021
+- `GLIDE`: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models," 2022
+- `DALL-E2`: "Hierarchical Text-Conditional Image Generation with CLIP Latents," 2022
 
 ##### This syllabus is subject to further change or revision, as needed, to best realize the educational goals of the course.
