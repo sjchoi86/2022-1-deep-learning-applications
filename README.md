@@ -14,8 +14,8 @@ In this lecture, we will be learning about two different topics in deep learning
 - Week 9 (5/3: Generative Model 1 (`NADE`,`PixelRNN`,`PixelCNN`)
 - Week 10 (5/10): Generative Model 2 (`VAE`, `WAE`, `GAN`, `PlanarFlow`)
 - Week 11 (5/17): Generative Model 3 (`DDPM` part1)
-- Week 12 (5/24): Generative Model 4 (`DDPM` part2, `InfoGAN`, `VQ-VAE`, `VQ-VAE2`)
-- Week 13 (5/31): Generative Model 5 (`DDIM`, `IDDPM`, `ADM`, `BART`, `DiffusionGAN`, `GLIDE`, `DALL-E2`)
+- Week 12 (5/24): Generative Model 4 (`DDPM` part2, `DDIM`)
+- Week 13 (5/31): Generative Model 5 (`InfoGAN`, `VQ-VAE`, `VQ-VAE2`, `IDDPM`, `ADM`, `BART`, `DiffusionGAN`, `GLIDE`, `DALL-E2`)
 - Week 14 (6/7): Final Presentation 1
 - Week 15 (6/14): Invited Talk ([Geonho Cha](https://www.linkedin.com/in/geonho-cha-37b033136/?originalSubdomain=kr)@Naver Clova)
 - Week 16 (6/21): Final Presentation 2
