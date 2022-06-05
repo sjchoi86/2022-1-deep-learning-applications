@@ -3,22 +3,17 @@
 In this lecture, we will be learning about two different topics in deep learning: self-supervised learning (SSL) and generative models. 
 
 ### Syllabus
-- Week 1 (3/7): Historical Review
-- Week 2 (3/15): Good Old Fashioned SSL (`Jigsaw`, `BiGAN`, `RotNet`, `Auto-Encoding Transform`, `DeepCluster`, `Single Image SSL`)
-- Week 3 (3/22): Convnet-based SSL (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
-- Week 4 (3/29): Transformer-based SSL (`Transformer`, `ViT`, `Swin Transformer`, `DINO`, `EsViT`)
-- Week 5 (4/5): Language-domain SSL (`GPT`, `GPT-2`, `BERT`, `RoBERTa`, `ALBERT`, `GPT-3`)
-- Week 6 (4/12): Invited Talk ([Sangdoo Yun](https://sangdooyun.github.io/)@Naver AI Lab)
-- Week 7 (4/19): Interlim Presentation 1
-- Week 8 (4/26): Interlim Presentation 2
-- Week 9 (5/3: Generative Model 1 (`NADE`,`PixelRNN`,`PixelCNN`)
-- Week 10 (5/10): Generative Model 2 (`VAE`, `WAE`, `GAN`, `PlanarFlow`)
-- Week 11 (5/17): Generative Model 3 (`DDPM` part1)
-- Week 12 (5/24): Generative Model 4 (`DDPM` part2, `DDIM`)
-- Week 13 (5/31): Generative Model 5 (`InfoGAN`, `VQ-VAE`, `VQ-VAE2`, `IDDPM`, `ADM`, `BART`, `DiffusionGAN`, `GLIDE`, `DALL-E2`)
-- Week 14 (6/7): Final Presentation 1
-- Week 15 (6/14): Invited Talk ([Geonho Cha](https://www.linkedin.com/in/geonho-cha-37b033136/?originalSubdomain=kr)@Naver Clova)
-- Week 16 (6/21): Final Presentation 2
+- 1. Historical Review
+- 2. Good Old Fashioned SSL (`Jigsaw`, `BiGAN`, `RotNet`, `Auto-Encoding Transform`, `DeepCluster`, `Single Image SSL`)
+- 3. Convnet-based SSL (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
+- 4. Transformer-based SSL (`Transformer`, `ViT`, `Swin Transformer`, `DINO`, `EsViT`)
+- 5. Language-domain SSL (`GPT`, `GPT-2`, `BERT`, `RoBERTa`, `ALBERT`, `GPT-3`)
+- 6. Generative Model 1 (`NADE`,`PixelRNN`,`PixelCNN`)
+- 7. Generative Model 2 (`VAE`, `WAE`, `GAN`, `PlanarFlow`)
+- 8. Generative Model 3 (`DDPM`)
+- 9. Generative Model 4 (`DDIM`)
+- 10. Generative Model 5 (`InfoGAN`, `VQ-VAE`, `VQ-VAE2`)
+- 11. Generative Model 6 (`ADM`, `CFG`, `GLIDE`, `DALL-E2`)
 
 ### Paper Lists
 - `Jigsaw`: "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles," 2017
