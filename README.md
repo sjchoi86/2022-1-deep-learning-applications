@@ -3,17 +3,17 @@
 In this lecture, we will be learning about two different topics in deep learning: self-supervised learning (SSL) and generative models. 
 
 ### Syllabus
-- 1. Historical Review
-- 2. Good Old Fashioned SSL (`Jigsaw`, `BiGAN`, `RotNet`, `Auto-Encoding Transform`, `DeepCluster`, `Single Image SSL`)
-- 3. Convnet-based SSL (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
-- 4. Transformer-based SSL (`Transformer`, `ViT`, `Swin Transformer`, `DINO`, `EsViT`)
-- 5. Language-domain SSL (`GPT`, `GPT-2`, `BERT`, `RoBERTa`, `ALBERT`, `GPT-3`)
-- 6. Generative Model 1 (`NADE`,`PixelRNN`,`PixelCNN`)
-- 7. Generative Model 2 (`VAE`, `WAE`, `GAN`, `PlanarFlow`)
-- 8. Generative Model 3 (`DDPM`)
-- 9. Generative Model 4 (`DDIM`)
-- 10. Generative Model 5 (`InfoGAN`, `VQ-VAE`, `VQ-VAE2`)
-- 11. Generative Model 6 (`ADM`, `CFG`, `GLIDE`, `DALL-E2`)
+ 1. Historical Review
+ 2. Good Old Fashioned SSL (`Jigsaw`, `BiGAN`, `RotNet`, `Auto-Encoding Transform`, `DeepCluster`, `Single Image SSL`)
+ 3. Convnet-based SSL (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
+ 4. Transformer-based SSL (`Transformer`, `ViT`, `Swin Transformer`, `DINO`, `EsViT`)
+ 5. Language-domain SSL (`GPT`, `GPT-2`, `BERT`, `RoBERTa`, `ALBERT`, `GPT-3`)
+ 6. Generative Model 1 (`NADE`,`PixelRNN`,`PixelCNN`)
+ 7. Generative Model 2 (`VAE`, `WAE`, `GAN`, `PlanarFlow`)
+ 8. Generative Model 3 (`DDPM`)
+ 9. Generative Model 4 (`DDIM`)
+ 10. Generative Model 5 (`InfoGAN`, `VQ-VAE`, `VQ-VAE2`)
+ 11. Generative Model 6 (`ADM`, `CFG`, `GLIDE`, `DALL-E2`)
 
 ### Paper Lists
 - `Jigsaw`: "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles," 2017
