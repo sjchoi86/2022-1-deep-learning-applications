@@ -3,7 +3,7 @@
 In this lecture, we will be learning about two different topics in deep learning: self-supervised learning (SSL) and generative models. 
 
 ### Syllabus
- 1. Historical Review
+ 1. Historical Review (`AlexNet`, `DQN`, `Attention`, `Adam`, `GAN`, `ResNet`, `Transformer`, `Pretrained Model`, `SSL`)
  2. Good Old Fashioned SSL (`Jigsaw`, `BiGAN`, `RotNet`, `Auto-Encoding Transform`, `DeepCluster`, `Single Image SSL`)
  3. Convnet-based SSL (`DrLIM`, `Contrastive Predictive Coding`, `SimCLR`, `MoCo`, `BYOL`, `SimCLRv2`, `SwAV`, `Barlow Twins`)
  4. Transformer-based SSL (`Transformer`, `ViT`, `Swin Transformer`, `DINO`, `EsViT`)
