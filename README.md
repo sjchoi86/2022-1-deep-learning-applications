@@ -55,6 +55,7 @@ In this lecture, we will be learning about two different topics in deep learning
 - `DDIM`: "DENOISING DIFFUSION IMPLICIT MODELS," 2020
 - `IDDPM`: "Improved Denoising Diffusion Probabilistic Models," 2021
 - `ADM`: "Diffusion Models Beat GANs on Image Synthesis," 2021
+- `CFG`: "Classifier-Free Diffusion Guidance," 2021
 - `BART`: "ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis," 2021
 - `DiffusionGAN`: "TACKLING THE GENERATIVE LEARNING TRILEMMA WITH DENOISING DIFFUSION GANS," 2021
 - `GLIDE`: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models," 2022
